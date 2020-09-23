@@ -1,6 +1,6 @@
 # Specific Leaf Area (SLA) Image Processing Pipeline
 This repository containes source code to process plant images for SLA.<br />
-To run this analysis your machine much have Python 3.8 and ImageJ version 1.52s installed. Ensure that the .ijim file is within ImageJ's macro folder system so the python script can source it correctly. The script "SLA_automation.py" was written specifically for the file naming and folder system that I used for my Masters thesis. However this can be easily altered inside the scripts depending on what folder you are looking for. The "SLAprocess.ijim" script was integrated into the python script for a simple automation technique of multiple batch processing inside ImageJ software.<br /> </p>
+To run this analysis your machine must have Python 3.8 and ImageJ version 1.52s installed. Ensure that the .ijim file is within ImageJ's macro folder system so the python script can source it correctly. The script "SLA_automation.py" was written specifically for the file naming and folder system that I used for my Masters thesis. However this can be easily altered inside the scripts depending on what folder you are looking for. The "SLAprocess.ijim" script was integrated into the python script for a simple automation technique of multiple batch processing inside ImageJ software.<br /> </p>
 
 ## Script Functions
 * When running SLA_automation.py the python modules are to be called in first then the directory containing the photographs was sourced.<br />
