@@ -1,7 +1,8 @@
 # MScThesis
 Source coding for processing SLA photographs.<br />
-The script "SLA_automation.py" requires Python 3.8 to be installed on your machine. It is written specifically for the file naming and folder system that I used for my Masters thesis. However this can be easily altered inside the scripts for what you are looking for.<br />
-The other script used for ImageJ version 1.52s that was integrated into the python script for a simple automation technique.<br />
+To run this analysis your machine much have Python 3.8 and ImageJ version 1.52s installed.
+The script "SLA_automation.py" was written specifically for the file naming and folder system that I used for my Masters thesis. However this can be easily altered inside the scripts for what you are looking for.<br />
+The other script was integrated into the python script for a simple automation technique for multiple batch processing of ImageJ software.<br />
 The python modules were called in first then the directory containing the photographs was sourced.<br />
 Using glob the specific file folder of "Photos/RW" was located for every subfolder inside the first sourced directory.<br />
 The names of photos are then copied and shortened to get the plant ID that each photo was named for to create a string of all the photos to be analysed as "TODO".<br />
