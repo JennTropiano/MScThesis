@@ -1,4 +1,4 @@
-# MScThesis
+# Specific Leaf Area (SLA) Image Processing Pipeline
 Source coding for processing SLA photographs.<br />
 To run this analysis your machine much have Python 3.8 and ImageJ version 1.52s installed.
 The script "SLA_automation.py" was written specifically for the file naming and folder system that I used for my Masters thesis. However this can be easily altered inside the scripts for what you are looking for.<br />
