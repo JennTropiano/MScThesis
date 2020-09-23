@@ -1,6 +1,6 @@
 # MScThesis
-Source coding for processing SLA photographs.
-The script "SLA_automation.py" requires Python 3.8 to be installed on your machine. It is written specifically for the file and folder system that I used for my Masters thesis.
+Source coding for processing SLA photographs.<br />
+The script "SLA_automation.py" requires Python 3.8 to be installed on your machine. It is written specifically for the file and folder system that I used for my Masters thesis.<br />
 The other script used for ImageJ was integrated into the python script for a simple automation technique.
 The python modules were called in first then the directory containing the photographs was sourced.
 Using "glob" the specific file folder of "Photos/RW" was located for every subfolder inside the first sourced directory.
